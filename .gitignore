@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+
+# Data
+data/
+*.csv
+!example_prediction.csv
+executive_summary.txt
+significant_terms.csv
+
+# Plots/Assets
+assets/
+!assets/.gitkeep

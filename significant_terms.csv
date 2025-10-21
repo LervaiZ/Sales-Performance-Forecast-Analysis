@@ -1,0 +1,4 @@
+term,coef,pval,effect_pct
+Quantity,0.23066,0.0,25.943044
+Unit_price,0.021463,0.0,2.169508
+C(City)[T.Naypyitaw],-0.051421,0.016648,-5.012086

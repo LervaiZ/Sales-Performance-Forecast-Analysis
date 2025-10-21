@@ -1,0 +1,7 @@
+pandas>=1.5
+numpy>=1.23
+statsmodels>=0.13
+patsy>=0.5
+seaborn>=0.12
+matplotlib>=3.6
+scikit-learn>=1.0
